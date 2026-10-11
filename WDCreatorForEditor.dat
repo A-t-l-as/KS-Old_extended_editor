@@ -1,0 +1,33 @@
+#ifdef EXTENDED_EDITOR
+<wdFile ExtendedEditor.wd
+<align 2048
+
+//All game files available in D:\Games\TwoWorlds will be put into Sample.wd here
+
+//Editor.wd
+
+//MeshCache.wd
+
+//Parameters.wd
+<add <text "./Parameters/EditorDef.txt"
+
+
+//Scripts.wd
+
+
+//Graphics.wd
+
+
+//Interface.wd
+
+
+//Levels.wd
+
+
+//Shaders.wd
+
+
+//Language.wd
+<add "./Language/*.lan"
+
+#endif
